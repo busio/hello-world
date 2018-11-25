@@ -1,5 +1,4 @@
 # hello-world
-a short description
 
 Hi all,
 
